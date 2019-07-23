@@ -35,6 +35,10 @@ Format of a Kick Start Round
 
 ## Resources
 
+Others' Solution
+
+* [Harmon758/Google-Kick-Start](https://github.com/Harmon758/Google-Kick-Start)
+
 ### Tutorial
 
 * [NewCoder - Google Online Coding Course (2018)](https://www.nowcoder.com/courses/cover/vod/1041)
@@ -47,4 +51,9 @@ Format of a Kick Start Round
 ### Competitive Coding Tips
 
 * [GeeksforGeeks - C++ tricks for competitive programming (for C++ 11)](https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
-* [Fast I/O for Competitive Programming](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
+* [GeeksforGeeks - Fast I/O for Competitive Programming](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
+
+### Necessary Programming Knowledge
+
+* [GeeksforGeeks - C++ Data Types](https://www.geeksforgeeks.org/c-data-types/)
+* [Stackoverflow - #define DEBUG 1](https://stackoverflow.com/questions/987637/define-debug-1)
