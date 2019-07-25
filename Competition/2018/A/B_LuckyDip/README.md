@@ -27,9 +27,9 @@ Recursion to get $E[K]$: $E[k] = \sum \max(V_i, E[k-1]) / N$. Time Complexity is
 
 > in the "Analysis" part it said this time complexity is fast enough to pass the large dataset but I got TLE even in small dataset
 
-### Iterative
+### Iterative (Dynamic Programming)
 
-Iteration to get $E[K]$. Time complexity is $O(N\log N + K \log N)$ (sorting + binary search)
+Iteration to get $E[K]$: $E[k] = x_k * E[k - 1] / N + \sum_{i > x_k} V_i / N$. Time complexity is $O(N\log N + K \log N)$ (sorting + binary search)
 
 1. sorting
 2. binary search
