@@ -18,6 +18,11 @@ Format of a Kick Start Round
 * Multiple test sets (visible vs. hidden)
 * New feature in 2019: Interactive Problems
 
+Terms
+
+* WA: wrong answer
+* TLE: time limit exceed
+
 ## Competition
 
 ### 2018
@@ -28,7 +33,7 @@ Format of a Kick Start Round
 
 * [Problem A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edf/00000000000510ed): [Even Digits](Competition/2018/A/A_EvenDigits)
   * 8 points, 15 points
-* Problem B: Lucky Dip
+* [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edf/0000000000050e1d): [Lucky Dip](Competition/2018/A/B_LuckyDip)
   * 10 points, 19 points
 * Problem C: Scrambled Words
   * 18 points, 30 points
