@@ -25,6 +25,8 @@ Terms
 
 ## Competition
 
+> (✓) means passed the testcases during the competition
+
 ### 2018
 
 #### [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edf)
@@ -37,6 +39,23 @@ Terms
   * 10 points, 19 points
 * Problem C: Scrambled Words
   * 18 points, 30 points
+
+### 2020
+
+Note: Unlike previous editions, in Kick Start 2020, all test sets are visible verdict test sets, meaning you receive instant feedback upon submission.
+
+#### [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7)
+
+> Rank 3122/10925
+
+* [Problem A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56): [Allocation](Competition/2020/A/A_Allocation)
+  * 5 points (✓), 7 points (✓)
+* [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56): [Plates](Competition/2020/A/B_Plates)
+  * 9 points (✓), 15 points (✓)
+* [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f5b): Workout
+  * 11 points, 18 points
+* [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3ff3): Bundling
+  * 14 points, 21 points
 
 ## Resources
 
