@@ -15,12 +15,16 @@ Format of a Kick Start Round
 * 12 supported coding languages
   * C++
   * Python
-* Multiple test sets (visible vs. hidden)
+* ~~Multiple test sets (visible vs. hidden)~~
+  * (different in 2020, it won't give the small testcases, and also just upload the code and compile online)
+  * (unfortunately, it won't tell you the case when you get WA)
 * New feature in 2019: Interactive Problems
+* New feature in 2020: All test sets are visible verdict test sets
 
 Terms
 
 * WA: wrong answer
+* RE: runtime error
 * TLE: time limit exceed
 
 ## Competition
