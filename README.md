@@ -61,6 +61,21 @@ Note: Unlike previous editions, in Kick Start 2020, all test sets are visible ve
 * [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3ff3): Bundling
   * 14 points, 21 points
 
+#### [Round B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8)
+
+> Rank 1321/9355
+
+* [Problem A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6): [BikeTour](Competition/2020/B/A_BikeTour)
+  * 5 points (✓), 7 points (✓)
+* [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83bf): [Bus Routes](Competition/2020/B/B_BusRoutes)
+  * 9 points (✓), 15 points (✓)
+  * TODO: binary search version (somehow, python can pass with linear version, but it might fail in C++)
+* [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc): [Robot Path Decoding](Competition/2020/B/C_RobotPathDecoding)
+  * 11 points (✓), 18 points (✓)
+* [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d8565): [Wandering Robot](Competition/2020/B/D_WanderingRobot)
+  * 14 points (✓), 21 points
+  * TODO: solve MLE in large case (I think it maybe doesn't need to store the entire grid)
+
 ## Resources
 
 Others' Solution
