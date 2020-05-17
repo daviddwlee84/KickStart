@@ -41,8 +41,9 @@ Terms
   * 8 points, 15 points
 * [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edf/0000000000050e1d): [Lucky Dip](Competition/2018/A/B_LuckyDip)
   * 10 points, 19 points
-* Problem C: Scrambled Words
+* [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edf/0000000000051004): [Scrambled Words](Competition/2018/A/C_ScrambledWords)
   * 18 points, 30 points
+  * TODO
 
 ### 2020
 
@@ -58,8 +59,10 @@ Note: Unlike previous editions, in Kick Start 2020, all test sets are visible ve
   * 9 points (✓), 15 points (✓)
 * [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f5b): Workout
   * 11 points, 18 points
+  * TODO: binary search
 * [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3ff3): Bundling
   * 14 points, 21 points
+  * TODO: greedy + trie
 
 #### [Round B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8)
 
@@ -75,6 +78,23 @@ Note: Unlike previous editions, in Kick Start 2020, all test sets are visible ve
 * [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d8565): [Wandering Robot](Competition/2020/B/D_WanderingRobot)
   * 14 points (✓), 21 points
   * TODO: solve MLE in large case (I think it maybe doesn't need to store the entire grid)
+
+#### [Round C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43)
+
+> Rank 2165/10104
+
+* [Problem A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2): [Countdown](Competition/2020/C/A_Countdown)
+  * 5 points (✓), 7 points (✓)
+* [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb): [Stable Wall](Competition/2020/C/B_StableWall)
+  * 8 points (✓), 13 points (✓)
+  * Just like Tetris
+* [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003381cb): [Perfect Subarray](Competition/2020/C/C_PerfectSubarray)
+  * 10 points (✓), 19 points
+  * TODO: use non-interpreted languages
+* [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/0000000000337b4d): [Candies](Competition/2020/C/D_Candies)
+  * 14 points, 24 points
+
+> * [python - Check if a number is a perfect square - Stack Overflow](https://stackoverflow.com/questions/2489435/check-if-a-number-is-a-perfect-square)
 
 ## Resources
 
