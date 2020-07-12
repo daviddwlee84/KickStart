@@ -26,6 +26,7 @@ Terms
 * WA: wrong answer
 * RE: runtime error
 * TLE: time limit exceed
+* MLE: memory limit exceed
 
 ## Competition
 
@@ -94,7 +95,24 @@ Note: Unlike previous editions, in Kick Start 2020, all test sets are visible ve
 * [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/0000000000337b4d): [Candies](Competition/2020/C/D_Candies)
   * 14 points, 24 points
 
+> * [Winning Google Kickstart Round C 2020 - YouTube](https://www.youtube.com/watch?v=oY0PBQt36YM)
 > * [python - Check if a number is a perfect square - Stack Overflow](https://stackoverflow.com/questions/2489435/check-if-a-number-is-a-perfect-square)
+> * [c++ - Check if given number is perfect square - GeeksforGeeks](https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/)
+
+#### [Round D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08)
+
+> Rank 1409/8252
+
+* [Problem A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171): [Record Breaker](Competition/2020/D/A_RecordBreaker)
+  * 4 points (✓), 8 points (✓)
+* [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387174): [Alien Piano](Competition/2020/C/B_AlienPiano)
+  * 7 points (✓), 11 points (✓)
+  * Continuous increase/decrease
+* [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386edd): [Beauty of tree](Competition/2020/C/C_BeautyOfTree)
+  * 13 points (✓), 19 points
+  * TODO: math/probability solution
+* [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386d5c): [Locked Doors](Competition/2020/C/D_LockedDoors)
+  * 12 points, 26 points
 
 ## Resources
 
