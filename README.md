@@ -105,14 +105,27 @@ Note: Unlike previous editions, in Kick Start 2020, all test sets are visible ve
 
 * [Problem A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171): [Record Breaker](Competition/2020/D/A_RecordBreaker)
   * 4 points (✓), 8 points (✓)
-* [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387174): [Alien Piano](Competition/2020/C/B_AlienPiano)
+* [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387174): [Alien Piano](Competition/2020/D/B_AlienPiano)
   * 7 points (✓), 11 points (✓)
   * Continuous increase/decrease
-* [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386edd): [Beauty of tree](Competition/2020/C/C_BeautyOfTree)
+* [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386edd): [Beauty of tree](Competition/2020/D/C_BeautyOfTree)
   * 13 points (✓), 19 points
   * TODO: math/probability solution
-* [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386d5c): [Locked Doors](Competition/2020/C/D_LockedDoors)
+* [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386d5c): [Locked Doors](Competition/2020/D/D_LockedDoors)
   * 12 points, 26 points
+
+#### [Round E](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47)
+
+> Rank 2638/9101
+
+* [Problem A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bf4ed): [Longest Arithmetic](Competition/2020/E/A_LongestArithmetic)
+  * 4 points (✓), 7 points (✓)
+* [Problem B](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bef73): [High Buildings](Competition/2020/E/B_HighBuildings)
+  * 6 points (✓), 9 points
+* [Problem C](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bede9): [Toys](Competition/2020/E/C_Toys)
+  * 13 points, 20 points
+* [Problem D](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bef29): [Golden Stone](Competition/2020/E/D_GoldenStone)
+  * 16 points, 25 points
 
 ## Resources
 
